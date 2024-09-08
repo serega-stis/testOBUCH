@@ -1,3 +1,4 @@
-let a = 2;
-let b = 56
+let a = 6;
+let some = 'text';
+let b = 56;
 let c = a * b;
